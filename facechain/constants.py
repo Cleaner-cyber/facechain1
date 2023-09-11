@@ -10,7 +10,7 @@ base_models = [
     'sub_path': "film/film",
     'style_list': ['默认风格(default style)', '凤冠霞帔(Chinese traditional gorgeous suit)']},
     {'name': 'manhua',
-    'model_id': 'cvaisz/portrait_stylization',
+    'model_id': 'damo/cv_cartoon_stable_diffusion_clipart',
     'revision': 'v1.0.0',
     'sub_path': "",
     'style_list': ['冬季汉服(Chinese winter hanfu)', '校服风(School uniform)', '婚纱风(Wedding dress)', '拍立得风(Polaroid style)', '仙女风(Fairy style)', '古风(traditional Chinese Style)', '壮族服装风(zhuangzu)', '欧式田野风(european fields)']},    

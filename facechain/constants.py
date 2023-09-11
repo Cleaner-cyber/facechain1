@@ -41,7 +41,7 @@ styles = [
      'cloth_name': '汉服风(hanfu)',
      'add_prompt_style': 'red, hanfu, tiara, crown'},
      {'name': '丁达尔(ding)',
-     'model_id': '/mnt/workspace/facechain/LORA',
+     'model_id': '/mnt/workspace/facechain1/LORA',
      'revision': 'v1.0.0',
      'bin_file': 'Tyndall effect_Light v1.1.safetensors',
      'multiplier_style': 0.35,
